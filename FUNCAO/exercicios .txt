@@ -1,0 +1,6 @@
+Exercícios de programação e algoritmos - Funções
+1.	Faça um programa, usando funções, que realize todas as operações básicas: soma, subtração, multiplicação, divisão.
+2.	Faça um programa, usando uma função, para calcular a porcentagem de um número. 
+3.	Faça um programa, usando uma função que converta uma temperatura de Celsius para Fahrenheit.
+4.	Faça um programa, usando uma função o que retorne um valor booleano (true ou false) informando se o número enviado como parâmetro é ímpar.
+5.	Faça um programa, usando uma função que calcule a raiz quadrada de um número.
